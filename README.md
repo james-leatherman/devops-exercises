@@ -103,6 +103,17 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-TOPICS-LIST:END -->
 
+## DevOps Applications
+
+<table>
+<tr>
+  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.kubeprep"><img src="images/apps/kubeprep.png" width="200px;" height="300px;" alt="KubePrep"/><br /><b>KubePrep</b></a></td>
+  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.linuxmaster"><img src="images/apps/linux_master.png" width="200px;" height="300px;" alt="Linux Master"/><br /><b>Linux Master</b></a></td>
+  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.system_design_hero"><img src="images/apps/system_design_hero.png" width="200px;" height="300px;" alt="Sytem Design Hero"/><br /><b>System Design Hero</b></a></td>
+</tr>
+</table>
+
+
 ## Network
 
 <details>
@@ -1108,7 +1119,7 @@ With <code>var x int = 2</code> we are setting the variable type to integer whil
 <details>
 <summary>True or False? In Go we can redeclare variables and once declared we must use it.</summary>
 
-False. We can't redeclare variables but yes, we must used declared variables.
+False. We can't redeclare variables but yes, we must use declared variables.
 </b></details>
 
 <details>
